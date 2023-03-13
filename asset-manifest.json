@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Food-Ordering-Dummy-App/static/css/main.82357d22.css",
+    "main.js": "/Food-Ordering-Dummy-App/static/js/main.5d31f950.js",
+    "static/media/meals.jpg": "/Food-Ordering-Dummy-App/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/Food-Ordering-Dummy-App/index.html",
+    "main.82357d22.css.map": "/Food-Ordering-Dummy-App/static/css/main.82357d22.css.map",
+    "main.5d31f950.js.map": "/Food-Ordering-Dummy-App/static/js/main.5d31f950.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82357d22.css",
+    "static/js/main.5d31f950.js"
+  ]
+}
